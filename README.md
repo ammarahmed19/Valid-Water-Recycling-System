@@ -295,7 +295,7 @@ void final_t(){
 ### SWOT Analysis
 ![SWOT Analysis](/images/SWOT.png)
 ### Business Model
-![Business Model](/images/BUSINESS_MODEL.png)
+![Business Model](/images/BUSINESS_MODEL.PNG)
 ## Future Plans and Recommendations
 * In case the project is able to produce recycled water it can be used in a large scale especially in rural towns, which means that it can be established a water distribution system to the farms, which its soil can adapt to this kind of recycled water. But it will be a traditional water distribution system with waste of water. As a result, the recycled water can be stored in tanks, and using agricultural drone for spraying farms to save more water. This idea is already applied in many countries, but it is applied in Egypt on small scales. As a result, the future plan for this project is to collect the detailed information about the components of the treated water, and find out which soils can use this water to make crops grow.
 
