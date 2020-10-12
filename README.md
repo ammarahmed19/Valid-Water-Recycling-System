@@ -9,7 +9,7 @@
 ## Problem Solution
 * The idea of this project is to save most of the used water in shower, and the kitchens in residential buildings without demolishing the infrastructure of the water system in the buildings, which means that this water treatment system will be established parallel to the water system of the building. The main idea of the project is fast treating for water to use it again with the same purpose that has been already used for it before, with low cost in the used components, with smart control system enable the person to analysis the chemical characteristics of this water like PH, turbidity, and temperature to find out which treatment process needed to make this water valid. In addition, the treated water will be saved in a tank, and the rest of treated water can be used in other purposes surrounding the residential building. For instance, if the building is in a rural city, it can be used for agriculture unless this water will not harm the plants, or the soil.
 
-[![Simulation Video](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Simulation Video](https://img.youtube.com/vi/Hcgp5Uokcdo/0.jpg)](https://www.youtube.com/watch?v=Hcgp5Uokcdo)
 
 > The video refers to the simulation video of the process on a scale of an apartement.
 
