@@ -1,4 +1,9 @@
 # Valid Water Recycling System
+## SDG Goal #6: Clean Water and Sanitation
+* Water scarcity affects more than 40% percent of people
+* 80% percent of wastewater goes into waterways without adequate treatment.
+* Safe and affordable drinking water for all by 2025 requires we invest in adequate infrastructure
+
 ## Problem Definition
 * Scarcity of water in Egypt has exacerbated in the last few years. There are main reasons of this problem will lead to a general problem in the whole country. The first problem is from each house, and caused by all of family members. Each person uses 1 British gallon per minute in shower, and the shower lasts from 7 to 10 minutes, so there is 8 Gallons used as an average, which is approximately 32 liters of water. The second problem is the water used in kitchens is considered an overrated consumption for water. It is a small scale of water waste. The large scale is water pollution, and misusing water sources in agriculture. Most of the farms in Egypt depend on traditional ways in planting farms, and it consumes large quantities of water.
 
@@ -309,3 +314,4 @@ void final_t(){
 * Random Nerd Tutorials. (2019). Complete Guide for Ultrasonic Sensor HC - SR04. [online] Available at: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/.
 * Reliance H. (2017). What is Reverse Osmosis (RO) and How You can Benefit From It. [online] Available at: https://reliancehomecomfort.com/ro-benefits/.
 * Www.home-water-works.org. (n.d.). Showers | Home Water Works. [online] Available at: https://www.home-water-works.org/indoor-use/showers#:~:text=Showering%20to%20Savings&text=The%20average%20American%20shower%20uses.
+* Goal 6 | Department of Economic and Social Affairs. (n.d.). Retrieved October 12, 2020, from https://sdgs.un.org/goals/goal6
